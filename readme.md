@@ -99,9 +99,6 @@ Integration testing can be performed via:
 1. **Postman**
    - Import the provided collection
    - All endpoints, parameters, and example payloads are pre-configured
-   - Environment variables for different deployments (dev/staging/prod)
-   - Includes pre-request scripts for authentication
-   - Contains response validation tests
 
 2. **Swagger Documentation**
    - Interactive testing through OpenAPI interface
